@@ -8,66 +8,66 @@ const products = [
   },
   {
     id: 2,
-    name: 'ExtravaganZZa',
+    name: 'Black Forest Cake',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/extravaganzza.png',
-    price: 14.99,
+      'https://i.imgur.com/FTLEdf6.jpeg',
+    price: 450.00,
   },
   {
     id: 3,
-    name: 'MeatZZa',
+    name: 'Bun',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/peperoni.png',
-    price: 13.47,
+      'https://i.imgur.com/Y79qG50.jpeg',
+    price: 35.00,
   },
   {
     id: 4,
-    name: 'Margarita',
+    name: 'Biscoff Cheesecake',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/margarita.png',
-    price: 9.9,
+      'https://i.imgur.com/TDbgpNL.png',
+    price: 320.00,
   },
   {
     id: 5,
-    name: 'Pacific Veggie',
+    name: 'Grilled Cheese Toast',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/veggie.png',
-    price: 12.99,
+      'https://i.imgur.com/tJno1yD.jpeg',
+    price: 65.00,
   },
   {
     id: 6,
-    name: 'Hawaiian',
+    name: 'Choco Chip Cake',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/hawaiin.png',
-    price: 10.49,
+      'https://i.imgur.com/5RDuIoQ.jpeg',
+    price: 750.00,
   },
   {
     id: 7,
-    name: 'Deluxe',
+    name: 'Vanilla Creamroll',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/deluxe.png',
-    price: 16.99,
+      'https://i.imgur.com/EaTm8xI.png',
+    price: 30.00,
   },
   {
     id: 8,
-    name: 'BBQ Chicken',
+    name: 'Veg Toast',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/veggie.png',
-    price: 12.89,
+      'https://i.imgur.com/6zeAjp1.jpeg',
+    price: 65.00,
   },
   {
     id: 9,
-    name: 'Chicken Bacon Ranch',
+    name: 'Cappuccino',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/extravaganzza.png',
-    price: 13.99,
+      'https://i.imgur.com/gIKMrMf.png',
+    price: 20.00,
   },
   {
     id: 10,
-    name: '6 Cheese',
+    name: 'Tea',
     image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/6cheese.png',
-    price: 13.29,
+      'https://i.imgur.com/pPDzKhW.png',
+    price: 25.00,
   },
 ];
 
