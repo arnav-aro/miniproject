@@ -23,6 +23,7 @@ export default function OrderDetailsScreen() {
                 data = {order.order_items} 
                 renderItem={({item}) => <OrderItemListItem item ={item}/>}
                 contentContainerStyle= {{gap:10}}
+                
             />
         </View>
     )
